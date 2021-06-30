@@ -8,3 +8,8 @@ body {
     padding: 0 15px;
     margin: 0 auto;
 }
+
+.header {
+    background-color: #000;
+    font-size: 14px;
+}
